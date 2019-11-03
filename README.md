@@ -4,4 +4,4 @@ To execute: Run RoboticVisualizer.py
 
 Requirements: PyQt5, OpenGL and NumPy.
 
-this project is still very in a very crude stage
+Please keep in mind that this project is still very in a very crude stage
