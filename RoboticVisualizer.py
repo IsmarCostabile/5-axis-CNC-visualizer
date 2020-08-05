@@ -1,7 +1,7 @@
 import sys
 import math
 import numpy as np
-/*just need to get a green git history*/
+
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import (QApplication, QHBoxLayout, QOpenGLWidget, QSlider,
